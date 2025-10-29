@@ -7,6 +7,7 @@ int main() {
 
     // Nessa área é onde é feito o menu, para escolher qual das opções você quer escolher.
 
+    // "do" e "while" usados para retornar ao menu caso escolhido.
     do {
 
     printf ("###| Menu de Escolhas |###\n");
