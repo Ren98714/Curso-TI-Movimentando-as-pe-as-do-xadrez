@@ -1,2 +1,3 @@
 # Curso-TI-Movimentando-as-pe-as-do-xadrez
-Meu trabalho 2.
+
+Apenas siga as instruções do programa, que tudo ocorrerá bem!
